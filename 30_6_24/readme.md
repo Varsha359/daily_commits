@@ -24,3 +24,7 @@ Parent -> Child1, Child2
 Parent1, Parent2 ->Child1
 
 *enables one derived class to inherit properties from more than one base class*
+
+
+## Polymorphism
+having many forms
