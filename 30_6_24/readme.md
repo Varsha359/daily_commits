@@ -28,3 +28,11 @@ Parent1, Parent2 ->Child1
 
 ## Polymorphism
 having many forms
+
+## Encapsulation
+the variables (private) can only be changed by the method in which they are declared
+
+wraps the data and the methods that work on data within one unit and we cannot change it from outside the method
+
+## Data Abstraction 
+It hides unnecessary code details from the user. 
